@@ -3,3 +3,7 @@ target/
 local-bench.sh
 monitor-local.sh
 results-local/
+SETUP.md
+RESULTS.md
+OPTIMIZATION_IDEAS.md
+OPTIMIZATION-LOG.md
